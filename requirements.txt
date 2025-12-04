@@ -1,0 +1,8 @@
+streamlit
+graphviz
+pydantic
+instructor
+trafilatura
+openai
+anthropic
+python-dotenv
